@@ -1,5 +1,10 @@
 # Word2NumericConverter
 
+Just a little program i decided to cook up to calculate Life Path with Date of Birth and Convert Words to its Numeric Value! 
+
+***********************************************************************
+Please Note: the screen shot photo of picking a date of birth was Btubborn Keith Rowley date of birth!
+***********************************************************************
 SOME VERY 
 INTERESTING RESULTS
 
@@ -45,7 +50,6 @@ DEVIL GENE MAN = 666 (John 6:70, 17:12; Acts 1:25; 2 Thess 2:3; Rev 17:8, 11)
 
 SON OF SIN = 666 
 
-
 888 RESULTS 
 
 The Trinity = 888 (1 John 5:7)
@@ -68,7 +72,6 @@ The House Of God = 888 (1 Tim 3:15)
 
 Scriptures = 888
 
-
 -------------------
 
 NOTES: 
@@ -85,7 +88,6 @@ Saviour = 1,408 (8 x 176 = 1,408)
 Christ = 1,480 (8 x 185 = 1,480)
 Emmanuel = 25,600 (8 x 3,200 = 25,600)
 
-
 Jesus = ihsous
  i =   10
 h =    8
@@ -98,3 +100,6 @@ s = 200
             888
 
 GREEK ALPHA / NUMERIC VALUES
+*************************************************************
+https://github.com/RandyXi/Word2NumericConverter
+*************************************************************
